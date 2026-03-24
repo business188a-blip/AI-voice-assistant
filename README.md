@@ -3,7 +3,7 @@ Voice Assistant with ChatGPT, Whisper API, Gradio, and TTS APIs
 
 My Voice Assistant is an AI-powered chatbot built with the collaboration of several APIs, including ChatGPT, Whisper API, Gradio, and Microsoft's SpVoice TTS API. It can understand natural language commands and provide helpful responses to various queries.
 
-![Screenshot (145)](https://user-images.githubusercontent.com/89584431/224185390-69c0e227-d88c-4612-aa4a-a130dcb76138.png)
+
 
 
 Features
@@ -47,10 +47,8 @@ To use the Voice Assistant, simply open the web-based interface provided by Grad
 
 Installation
 ------------
-
-1.  Clone the repository: `git clone https://github.com/DonGuillotine/chatGPT_whisper_AI_voice_assistant.git`
-2.  Install the required Python packages: `pip install -r requirements.txt`
-3.  Sign up for ChatGPT API key from <https://beta.openai.com/signup/>
+1.  Install the required Python packages: `pip install -r requirements.txt`
+2.  Sign up for ChatGPT API key from <https://beta.openai.com/signup/>
 
 Contributing
 ------------
